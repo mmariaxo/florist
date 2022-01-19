@@ -101,10 +101,7 @@ p{
  padding-left: 300px;
  position: relative;
 }
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
+
 .topnav .icon {
   display: none;
 }
@@ -132,4 +129,20 @@ p{
       padding-left: 150px;
     }
   } 
+  iframe{
+    padding-top: 1cm;
+  }
+  .kontakt{
+    vertical-align: top;
+    padding-top: 1cm;
+  }
+  .kontakt1{
+    font-size: 20px;
+    padding-left: 3cm;
+  }
+  .kontakt2{
+    font-size: 20px;
+    padding-left: 3cm;
+    padding-top: 2cm;
+  }
   
