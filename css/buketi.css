@@ -7,3 +7,19 @@
    position:top;
 
 }
+.zaglavie_buketite{
+    text-align: center;
+}
+.poruchkata{
+    height:150px;
+    width: 150px;
+}
+.text_buketi{
+    padding-left:1cm;
+    font-family:  'Playfair Display', serif;
+    font-size: 20px;
+    color:#5C7651;
+    padding-top: 0;
+    margin-top: 0;
+    display: inline;
+}
